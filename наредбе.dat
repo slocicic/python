@@ -1,1 +1,6 @@
 git clone https://github.com/***/***.git
+git init
+git add .
+git commit -a -m 'датотека са основним наредбама за Гит и ГитХаб'
+git status
+git branch -a
