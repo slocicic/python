@@ -4,3 +4,7 @@ git add .
 git commit -a -m 'датотека са основним наредбама за Гит и ГитХаб'
 git status
 git branch -a
+git push
+git branch грана
+git branch -a
+git checkout грана
