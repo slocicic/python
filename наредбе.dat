@@ -8,3 +8,7 @@ git push
 git branch грана
 git branch -a
 git checkout грана
+git push origin грана
+git add .
+git commit -a -m 'датотека са основним наредбама за Гит и ГитХаб у грану 'грана''
+git push origin грана
